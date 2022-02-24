@@ -1,0 +1,26 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    padding: 2em;
+    max-width: 800px;
+    display: 
+    font-size: 12pt;
+    font-weight: lighter;
+}
+
+div#left-column {
+    flex: 1 1 500px;
+    text-align: left;
+    padding: 1em;
+}
+
+div#right-column {
+    flex: 1 1 500px;
+    text-align: right;
+    border-left: black solid 2px;
+    padding: 1em;
+}
+
+ul {
+    
+}
